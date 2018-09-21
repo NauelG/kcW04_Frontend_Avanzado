@@ -1,0 +1,151 @@
+{
+    "articles": [{
+            "id": 1,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "¿Es necesario aprender a programar hoy en día? ¿Se ha convertido la programación en un complemento de cualquier otra disciplina académica?",
+            "content": "<div>un div</div><div>dos divs</div>",
+            "date": "2018-08-03 22:01:35",
+            "picture": "",
+            "video": "",
+            "main-picture": "",
+            "author": "Álvaro Leal",
+            "author-image": "",
+            "comments": [{
+                "author": "Nauel",
+                "content": "Hola"
+            }]
+        },
+        {
+            "id": 2,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 3,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 4,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 5,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 6,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 7,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 8,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 9,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 10,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 11,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 12,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        },
+        {
+            "id": 13,
+            "title": "Aprende a programar con KeepCoding",
+            "intro": "",
+            "content": "",
+            "date": "",
+            "comments": [{
+                "author": "",
+                "content": ""
+            }]
+        }
+    ]
+}

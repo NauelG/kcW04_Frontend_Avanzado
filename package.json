@@ -1,0 +1,42 @@
+{
+    "name": "kcw04_frontend_avanzado",
+    "version": "1.0.0",
+    "description": "Práctica del módulo de Frontend Avanzado del Bootcamp Web de KeepCoding",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack --mode=production",
+        "eslint": "eslint",
+        "start": "webpack-dev-server --mode=development --hot --inline",
+        "server": "json-server --watch --port=8000 ./src/data/db.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NauelG/kcW04_Frontend_Avanzado.git"
+    },
+    "author": "NauelG",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NauelG/kcW04_Frontend_Avanzado/issues"
+    },
+    "homepage": "https://github.com/NauelG/kcW04_Frontend_Avanzado#readme",
+    "devDependencies": {
+        "babel-polyfill": "^6.26.0",
+        "css-loader": "^1.0.0",
+        "file-loader": "^2.0.0",
+        "html-loader": "^0.5.5",
+        "html-webpack-plugin": "^3.2.0",
+        "image-webpack-loader": "^4.3.1",
+        "sass-loader": "^7.1.0",
+        "style-loader": "^0.23.0",
+        "webpack": "^4.19.1",
+        "webpack-cli": "^3.1.0",
+        "webpack-dev-server": "^3.1.8",
+        "webpack-merge": "^4.1.4"
+    },
+    "dependencies": {
+        "@babel/core": "^7.1.0",
+        "@babel/preset-env": "^7.1.0",
+        "babel-loader": "^8.0.2"
+    }
+}
