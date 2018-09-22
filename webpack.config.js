@@ -65,7 +65,10 @@ var commonConfig = {
     resolve: {
         alias: {
             components: path.resolve(__dirname, 'src', 'components'),
-            services: path.resolve(__dirname, 'src', 'services')
+            services: path.resolve(__dirname, 'src', 'services'),
+            pages: path.resolve(__dirname, 'src', 'pages'),
+            assets: path.resolve(__dirname, 'src', 'assets'),
+            styles: path.resolve(__dirname, 'src', 'styles')
         }
     },
     devtool: 'source-map'
