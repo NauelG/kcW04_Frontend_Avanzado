@@ -1,3 +1,59 @@
-header {
-    background-color: red;
+@import 'styles/settings.scss';
+@import 'styles/layout.scss';
+@import 'styles/main.scss';
+header.header {
+    min-height: 5vh;
+    background-color: $c-background;
+    border-bottom: 1px solid $c-secondary;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1.logo {
+        color: $c-default;
+        font-family: $alt-font;
+        span {
+            color: $c-secondary;
+        }
+        margin-bottom: 0.2rem;
+    }
+    nav.menu {
+        text-align: center;
+        a {
+            text-transform: uppercase;
+            display: block;
+            color: $c-default;
+            text-decoration: none;
+            padding: 0.5rem;
+            display: none;
+            &.toggle-menu {
+                display: block;
+                position: absolute;
+                color: $c-secondary;
+                top: 16px;
+                right: 5px;
+            }
+        }
+        @include for-tablet-portrait {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            a {
+                font-size: 1rem;
+                display: block;
+                &.toggle-menu {
+                    display: none;
+                }
+            }
+        }
+        &.menu-open {
+            a {
+                display: block;
+            }
+        }
+    }
+}
+
+.toggle-menu {
+    font-size: 1.5rem;
 }
