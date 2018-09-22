@@ -6,9 +6,10 @@ html {
     font-family: $default-font;
 }
 
-div.container {
+.container {
     max-width: 98vw;
     margin: 0.5rem auto;
+    padding-bottom: 4.5rem;
     @include for-tablet-landscape {
         max-width: 1100px;
     }
