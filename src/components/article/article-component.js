@@ -4,9 +4,9 @@ import './article-component.scss';
 export const Article = new Component('app-article');
 
 Article.template = `
-    <section>
+    <div class="container">
         Article component - Render
-    </section>
+    </div>
 `;
 
 export default Article;
