@@ -1,0 +1,31 @@
+@import 'styles/settings.scss';
+@import 'styles/layout.scss';
+@import 'styles/main.scss';
+footer.footer {
+    color: $c-default;
+    width: 100%;
+    height: 4.5rem;
+    background-color: $c-background;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-top: 1px solid $c-secondary;
+    nav.footer-icons {
+        margin: 0.5rem;
+        a {
+            color: $c-secondary;
+            text-decoration: none;
+            font-size: 1.5rem;
+            margin: 0 1rem;
+        }
+    }
+    span.footer-copy {
+        font-size: 0.7rem;
+        strong {
+            color: $c-secondary;
+        }
+    }
+}
