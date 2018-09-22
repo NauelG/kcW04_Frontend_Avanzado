@@ -7,9 +7,9 @@
             "date": "2018-08-03 22:01:35",
             "picture": "",
             "video": "",
-            "main-picture": "",
+            "mainPicture": "",
             "author": "Álvaro Leal",
-            "author-image": "",
+            "authorImage": "",
             "comments": [{
                 "author": "Nauel",
                 "content": "Hola"
@@ -17,7 +17,7 @@
         },
         {
             "id": 2,
-            "title": "Aprende a programar con KeepCoding",
+            "title": "Aprende a programar con",
             "intro": "",
             "content": "",
             "date": "",
