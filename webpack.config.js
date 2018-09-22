@@ -16,7 +16,8 @@ var newPage = function({ title, template, chunks, filename }) {
 
 var commonConfig = {
     entry: {
-        home: ['babel-polyfill', path.join(__dirname, 'src', 'app')]
+        home: ['babel-polyfill', path.join(__dirname, 'src', 'pages', 'app')],
+        article: ['babel-polyfill', path.join(__dirname, 'src', 'pages', 'article')]
     },
     output: {
         filename: '[name][hash].js',
@@ -28,7 +29,13 @@ var commonConfig = {
             template: path.join(__dirname, 'src', 'index.html'),
             chunks: ['home'],
             filename: path.resolve(__dirname, 'dist', 'index.html')
-        })
+        }),
+        newPage({
+            title: 'Article',
+            template: path.join(__dirname, 'src', 'index.html'),
+            chunks: ['article'],
+            filename: path.resolve(__dirname, 'dist', 'article.html')
+        }),
     ],
     module: {
         rules: [{
@@ -57,7 +64,8 @@ var commonConfig = {
     },
     resolve: {
         alias: {
-            components: path.resolve(__dirname, 'src', 'components')
+            components: path.resolve(__dirname, 'src', 'components'),
+            services: path.resolve(__dirname, 'src', 'services')
         }
     },
     devtool: 'source-map'
