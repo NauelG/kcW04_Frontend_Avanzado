@@ -6,10 +6,7 @@ export class Component {
 
     render() {
         var elements = document.getElementsByTagName(this.selector);
-        console.log(elements)
         for (let i = 0; i < elements.length; i++) {
-            console.log(elements);
-            console.log(this.template)
             elements[i].innerHTML = this.template;
         }
     }
