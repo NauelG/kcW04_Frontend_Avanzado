@@ -1,6 +1,12 @@
 var merge = require('webpack-merge'),
     path = require('path'),
-    htmlWebpackPlugin = require('html-webpack-plugin');
+    htmlWebpackPlugin = require('html-webpack-plugin'),
+    Dotenv = require('dotenv-webpack'),
+    optimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin'),
+    uglyfysPlugin = require('uglifyjs-webpack-plugin'),
+    miniCssExtractPlugin = require('mini-css-extract-plugin'),
+    cleanWebpackPlugin = require('clean-webpack-plugin'),
+    criticalPlugin = require('webpack-plugin-critical').CriticalPlugin;
 
 var newPage = function({ title, template, chunks, filename }) {
     return new htmlWebpackPlugin({
@@ -24,6 +30,7 @@ var commonConfig = {
         path: path.resolve(__dirname, 'dist')
     },
     plugins: [
+        new Dotenv(),
         newPage({
             title: 'Home',
             template: path.join(__dirname, 'src', 'index.html'),
@@ -91,7 +98,37 @@ var devConfig = {
     }
 };
 
-var prodConfig = {};
+var prodConfig = {
+    optimization: {
+        minimizer: [
+            new optimizeCSSAssetsPlugin({
+                cssProcessorOptions: { map: { inline: false } }
+            })
+        ]
+    },
+    plugins: [
+        new miniCssExtractPlugin({
+            filename: '[name].[hash].css'
+        }),
+        new cleanWebpackPlugin(['dist']),
+        new criticalPlugin({
+            src: path.join(__dirname, 'src', 'index.html'),
+            inline: true,
+            minify: true,
+            dest: path.join(__dirname, 'dist', 'index.html')
+        })
+    ],
+    module: {
+        rules: [{
+            test: /\.scss$/,
+            use: [
+                miniCssExtractPlugin.loader,
+                'css-loader',
+                'sass-loader'
+            ]
+        }]
+    }
+};
 
 module.exports = (env, argv) =>
     argv.mode === 'development' ?
