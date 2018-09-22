@@ -1,0 +1,33 @@
+// IMPORTS
+@import url('https://fonts.googleapis.com/css?family=Arimo|Josefin+Sans');
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+// COLORS
+$c-enphasi: rgba(239,
+100,
+97,
+1);
+$c-secondary: rgba(228,
+179,
+99,
+1);
+$c-background: rgba(232,
+233,
+235,
+1);
+$c-background2: rgba(224,
+223,
+213,
+1);
+$c-default: rgba(49,
+54,
+56,
+1);
+// FONTS
+$default-font: 'Arimo',
+sans-serif;
+$alt-font: 'Josefin Sans',
+sans-serif;
+// RESPONSIVE BREAKPOINTS
+$breakpoint-tablet-portrait: 600px;
+$breakpoint-tablet-landscape: 900px;
+$breakpoint-desktop: 1200px;

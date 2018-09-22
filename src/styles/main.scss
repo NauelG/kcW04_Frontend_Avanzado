@@ -1,0 +1,15 @@
+@import './normalize.scss';
+@import './settings.scss';
+@import './layout.scss';
+html {
+    box-sizing: border-box;
+    font-family: $default-font;
+}
+
+div.container {
+    max-width: 98vw;
+    margin: 0.5rem auto;
+    @include for-tablet-landscape {
+        max-width: 1100px;
+    }
+}
