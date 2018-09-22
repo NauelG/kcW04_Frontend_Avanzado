@@ -2,7 +2,6 @@
 @import 'styles/layout.scss';
 @import 'styles/main.scss';
 header.header {
-    min-height: 5vh;
     background-color: $c-background;
     border-bottom: 1px solid $c-secondary;
     display: flex;
