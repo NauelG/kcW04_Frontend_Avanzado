@@ -14,3 +14,21 @@ html {
         max-width: 1100px;
     }
 }
+
+.container-message {
+    width: 100%;
+    text-align: center;
+    margin-top: 8rem;
+    i {
+        display: block;
+        font-size: 4rem;
+        color: $c-secondary;
+    }
+    span {
+        display: block;
+        font-family: $alt-font;
+        font-size: 2rem;
+        text-transform: uppercase;
+        margin-top: 3rem;
+    }
+}
