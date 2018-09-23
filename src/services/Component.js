@@ -11,6 +11,16 @@ export class Component {
         }
     }
 
+    createError(error) {
+        this.template = `
+            <div class="container-message">
+                <i class="fas fa-exclamation-triangle"></i>
+                <span>${error}</span>
+            </div>
+        `;
+        this.render();
+    }
+
     getData() {
         var elements = document.getElementsByTagName(this.selector);
         var dataset = [];
