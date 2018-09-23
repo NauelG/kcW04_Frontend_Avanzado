@@ -1,143 +1,156 @@
 {
-    "articles": [{
-            "id": 1,
-            "title": "Tendencias desarrollo mobile 2019",
-            "intro": "¿Es necesario aprender a programar hoy en día? ¿Se ha convertido la programación en un complemento de cualquier otra disciplina académica?",
-            "content": "<p>El sector de las aplicaciones móviles es uno de los grandes mercados del mundo de la tecnología. Esto es algo que no se puede negar, ahí van unos datos para que entiendas un poco la magnitud del asunto (gracias a elboletin, ignaciosantiago.com y merca20):</p><ul><li>A finales de 2017 existían 5.000 millones de usuarios con un smartphone.</li><li>En el año 2017 se descargaron nada más y nada menos que 197 mil millones de aplicaciones.</li><li>En marzo de 2017 se reportaron 2.800 millones de aplicaciones en Google Play y 2.200 millones en App Store.</li><li>En España 22 millones de personas usamos cada día aplicaciones móviles y todos los días nos descargamos 4 millones de aplicaciones para móviles, tablets y televisores.</li><li>Se espera que para el 2020 el mercado de las apps genere alrededor de 189 mil millones de dólares en ingresos.</li></ul><p>Son números increíbles ¿verdad? El sector del desarrollo de aplicaciones es imparable, así que tanto si ya eres un desarrollador o si lo quieres ser… te dejamos con algunas tendencias del mundillo, para que estés al día, ya sabes que en el ámbito tecnológico siempre hay que estar atento, con el bláster preparado.</p>",
-            "date": "2018-08-03 22:01:35",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-1-820x400.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-1-820x400.png",
-            "author": "Keep Coding Team",
-            "authorImage": "https://images.freeimages.com/images/large-previews/7e8/man-avatar-1632965.jpg"
-        }, {
-            "id": 2,
-            "title": "Tendencias en desarrollo Big Data & Machine Learning",
-            "intro": "Big Data y Machine Learning dos conceptos que están en boca de todo el mundo hoy en día, pero no es para menos, el perfil de científico de datos se ha convertido en uno de los más demandados...",
-            "content": "<p>Big Data y Machine Learning dos conceptos que están en boca de todo el mundo hoy en día, pero no es para menos, el perfil de científico de datos se ha convertido en uno de los más demandados por las empresas en los últimos años. Según el informe “Profesional Big Data: análisis actual y perspectivas de futuro”, las ofertas de empleo han aumentado un 92% en dos años solamente en España. Las empresas se han dado cuenta de una realidad: los datos son su presente, pero también su futuro. La gestión de datos ha dejado de ser monopolio de grandes empresas para dejar la puerta abierta a que empresas más pequeñas decidan dar a los datos la importancia que se merecen.</p><p>Nosotros lo tenemos claro, como Pat Gelsinger: “Los datos son la nueva ciencia. El Big Data las respuestas“; por eso en este post queremos enseñaros los lenguajes y herramientas que seguirán de moda o que serán tendencia en el desarrollo Big Data y Machine Learning en el año 2019.</p><h3>Python</h3><p>Según la encuesta de desarrolladores que hace todos los años StackOverflow, Python es uno de los 10 lenguajes más utilizados en todo el mundo por los desarrolladores profesionales. Además ocupa el primer puesto como lenguaje más querido por los programadores. ¿Quién no quiere aprender Python? Es un lenguaje fácil de aprender, muy limpio y legible con el que se pueden crear programas para diferentes dispositivos y plataformas como programas de escritorio para Mac, Linux o Windows y aplicaciones para Android o páginas web. Empresas como Google, Amazon, Facebook, Instagram, Netflix o Reddit usan Python. ¿Tú aún no?</p>",
-            "date": "2018-09-23 11:03:00",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-820x400.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-820x400.png",
-            "author": "NauelG",
-            "authorImage": ""
-        },
-        {
-            "id": 3,
-            "title": "Tendencias en desarrollo web 2019",
-            "intro": "Es bien sabido que hoy en día las empresas buscan, cada vez más, perfiles tecnológicos, y especialmente desarrolladores web. Y no sólo en España sino en todo el mundo. Según el más reciente informe...",
-            "content": "<p>Es bien sabido que hoy en día las empresas buscan, cada vez más, perfiles tecnológicos, y especialmente desarrolladores web. Y no sólo en España sino en todo el mundo. Según el más reciente informe de Tech Cities de Experis IT, el desarrollo web es una de las áreas con más futuro y proyección laboral. Debido al aumento del uso de Internet y las mejoras en las conexiones, la necesidad de desarrolladores en las empresas es realmente alta.</p><p>Es bien sabido que hoy en día las empresas buscan, cada vez más, perfiles tecnológicos, y especialmente desarrolladores web. Y no sólo en España sino en todo el mundo. Según el más reciente informe de Tech Cities de Experis IT, el desarrollo web es una de las áreas con más futuro y proyección laboral. Debido al aumento del uso de Internet y las mejoras en las conexiones, la necesidad de desarrolladores en las empresas es realmente alta.</p><h3>Tendencias en desarrollo web 2019</h3><p>En cuanto a los frameworks y librerías. Angular, React y Vue siguen pegando muy fuerte, especialmente Vue. Aunque por supuesto también hay hueco para Ionic.</p><h4>Angular</h4><p>Angular es un framework de desarrollo para JavaScript, gratuito y Open Source creado por Google. El objetivo de Angular es ayudarnos al desarrollo de aplicaciones web SPA (Single Page App) y también darnos herramientas para trabajar con los elementos de una web de manera mucho más sencilla. Este lenguaje está viviendo una etapa de estabilidad que hace que muchos desarrolladores senior la utilicen en su trabajo diario. El lenguaje principal de este framework es TypeScript y ¿quién está detrás de este lenguaje?: Microsoft, otro grande de la tecnología. Además Angular te da la opción de crear aplicaciones híbridas: tanto para iOS, Android, como para otras plataformas minoritarias.</p>",
-            "date": "2018-08-25 22:07:30",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tendencias-desarrollo-web-2019-820x400.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tendencias-desarrollo-web-2019-820x400.png",
-            "author": "Keep Coding Team",
-            "authorImage": ""
-        },
-        {
-            "id": 4,
-            "title": "Cómo usar el Machine Learning para cambiar el mundo",
-            "intro": "El 29 y 30 de junio de 2018 la empresa Terminus7, dedicada al desarrollo de Inteligencia Artificial, celebró en Madrid el Hackathon AI for Good.",
-            "content": "<p>El 29 y 30 de junio de 2018 la empresa Terminus7, dedicada al desarrollo de Inteligencia Artificial, celebró en Madrid el Hackathon AI for Good.</p><p>Los retos que pusieron a los participantes tenían que ver con la resolución de problemáticas relacionadas con la salud: el cáncer de mama y la diabetes.</p><p>Aunque a veces hay muchos prejuicios contra el Machine Learning la verdad es que se pueden hacer importantes cosas para ayudar a la humanidad.</p><p>Pablo Langa, que ya apareció por el blog como caso de éxito del Bootcamp Big Data & Machine Learning fue uno de los participantes junto con Carolina Calvo y obtuvieron un merecido tercer puesto, ¡enhorabuena!</p>",
-            "date": "2018-09-03 10:01:35",
-            "picture": "",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/hackathon-ai-for-good-820x400.png",
-            "author": "Algunos alumnos del bootcamp",
-            "authorImage": ""
-        },
-        {
-            "id": 5,
-            "title": "¿Quieres contratar desarrolladores de calidad?",
-            "intro": "El próximo 28 de septiembre se celebra un nuevo Closing de los alumnos de la 5ª edición del Bootcamp Mobile y la 3ª del Bootcamp Web.",
-            "content": "<p>El próximo 28 de septiembre se celebra un nuevo Closing de los alumnos de la 5ª edición del Bootcamp Mobile y la 3ª del Bootcamp Web.</p><p>El Closing no sólo es un evento de nerdworking . Es mucho más que eso. Es un momento de respiro y de triunfo. Y es que nuestros keepcoders han estado trabajando muy duro para poder seguir al día la formación y terminar con éxito. Nunca nadie dijo que fuera fácil (de hecho se lo decimos, que ni de broma iba a ser sencillo) pero desde luego confiamos en que merece la pena.</p><p>Así pues durante el Closing los alumnos hacen una presentación de su trabajo final en grupo. En este trabajo presentan un proyecto totalmente terminado, una app (mobile o web) que han realizado desde cero, tanto el backend com como el frontend.</p><p>Un ejemplo del trabajo de nuestros keepcoders que se presentó durante el pasado Closing de febrero es la aplicación Sinergy, una app creada para hacer Team Building. Los keepcoders vuelcan en  sus proyectos  todo el conocimiento que han adquirido todos estos meses anteriores, es la prueba de fuego, la culminación del esfuerzo, el día en el que recibirán sus ansiadas camisetas negras. En KeepCoding entregamos diferentes camisetas a medida que el alumno va avanzando en su formación. Si quieres conocer los colores y sus significados puedes leer este post.</p><h3>Pero sí, también hay nerdworking</h3><p>Este evento también está diseñado para que los recruiters puedan encontrar el talento técnico que necesitan para sus empresas. Es perfecto para ellos porque podrán ver las presentaciones de los alumnos en directo y conocer de primera mano todo el conocimiento y las habilidades que han adquirido durante su formación en KeepCoding. Tras las exposiciones, todas las empresas podrán trata con todos los keepcoders que se adecúen a las ofertas de empleo presentadas por ellos.</p>",
-            "date": "2018-07-20 22:01:35",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/mobile-web-anuncio-code-one-alumnos-820x400.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/mobile-web-anuncio-code-one-alumnos-820x400.png",
-            "author": "NauelG",
-            "authorImage": ""
-        },
-        {
-            "id": 6,
-            "title": "Frontend versus Backend. eBook gratis.",
-            "intro": "Estamos seguros de que cada día ves numerosas páginas web y utilizas diversas aplicaciones. Imágenes a todo color, animaciones super chulas, vídeos en HD, noticias, popups…",
-            "content": "<p>Estamos seguros de que cada día ves numerosas páginas web y utilizas diversas aplicaciones. Imágenes a todo color, animaciones super chulas, vídeos en HD, noticias, popups… pero hay mucho más de lo que se puede apreciar a simple vista con ojos de muggle. Detrás de cada cosa que ves en una página web, en una aplicación, hay mucho trabajo, numerosas tecnologías que trabajan sin descanso para poder ofrecerte la mejor experiencia posible y poder responder lo más rápido posible a tus peticiones, como puede ser la descarga de archivos. Para que todo funcione es necesario el trabajo de dos perfiles de desarrolladores, el desarrollador frontend y el desarrollador backend. ¿Qué no tienes ni idea de qué significan estas palabrejas?</p><h3>Diferencia entre Frontend y Backend</h3><p>Una aplicación web (y luego veremos que esto mismo se aplica a cualquier tipo de software) es como una tienda: está hecha de varios componentes, cada uno con su misión. Pensemos en una tienda que todos conocemos, como Ikea o un McDonald.</p><ol><li>El escaparate y el interior de la tienda por el cual el cliente circula e interactúa con ella. Su objetivo es atraer al cliente y llevarle a comprar alguno de los productos, proporcionando una buena experiencia de usuario: encontrar los productos y poder comprarlos de forma rápida y cómoda. Esto es el frontend. En una web, sería la parte que tú ves en el browser, por ejemplo la web de Amazon, las listas de productos, las recomendaciones, el carrito de la compra, etc.</li><li>La trastienda, el almacén, los servicios de transporte y logística, sistema de pagos y contabilidad, etc. Son servicios esenciales, que aunque no los ves, cuando fallan toda la experiencia del cliente se va al garete. ¿De qué le serviría a Amazon tener un frontend muy bonito, si luego no es capaz de entregar los productos, o hacerte recomendaciones personalizadas? ¿De qué le vale a Netflix tener un frontend fantástico, si luego el sistema de streaming o de recomendaciones no funciona? Esto es el backend, y como ves, aunque invisible, es de vital importancia.</li></ol>",
-            "date": "2018-08-03 22:01:35",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-ebook-web-frontend-backend-1-1024x501.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-ebook-web-frontend-backend-1-1024x501.png",
-            "author": "Keep Coding Team",
-            "authorImage": "https://images.freeimages.com/images/large-previews/7e8/man-avatar-1632965.jpg"
-        },
-        {
-            "id": 7,
-            "title": "Cómo llegar a ser desarrollador iOS freelance",
-            "intro": "'Me dedicaba a ver videos en Youtube. Era mal estudiante y aunque me encantan las matemáticas era demasiado vago para memorizar los conceptos.'",
-            "content": "<strong>¿Por qué decidiste estudiar programación?</strong><p>Realmente no decidí estudiar programación. Empecé a programar con 14 años, siendo este mi hobby. Un día, sin casi darme cuenta, me estaban pagando por hacer lo que más me gusta. Y es cierto que a veces en España hace falta un título para ciertas empresas. Por eso me saqué el Grado Superior de Desarrollo del que aprendí muchísimo gracias a mis profesores del Instituto Nervión de Sevilla, que enseñan programación con pasión por lo que hacen, y también gracias a mis compañeros, ya que era la primera vez que me juntaba con un grupo tan friki de la programación y con tantas ganas de aprender como yo.</p><strong>¿Cuáles fueron los primeros pasos que diste para formarte en este sector?</strong><p>Me dedicaba a ver videos en Youtube. Era mal estudiante y aunque me encantan las matemáticas era demasiado vago para memorizar los conceptos. Por eso hacía aplicaciones que resolvieran cualquier tipo de problema. Ecuaciones, trigonometría, química… Y así fueron mis primeros pasos en el desarrollo de aplicaciones para apps. Más tarde, trabajando de chico multitarea, sobre todo en Node.JS, la empresa decidió que podía echar una mano en iOS y me ofrecieron un curso de formación de KeepCoding que impartía Fernando Rodríguez. Terminé todos los cursos en una semana y media y pude ir echando una mano a mi compañero en iOS.</p><strong>¿Sigues formándote? ¿Qué estudias?</strong><p>Claro que si. En cualquier ocupación del sector tecnológico es necesaria la formación continua. En caso contrario estaría acabado. Actualmente estoy muy interesado en el Machine Learning ya que creo que va a ser clave para las grandes apps del futuro. Normalmente lo que suelo hacer en mi caso de iOS es ver la conferencia de desarrolladores y mirar los nuevos cambios para estar siempre al día de todo. También me ayudo con algunos blogs de Medium y siguiendo a muchos desarrolladores en LinkedIn que escriben artículos interesantes sobre nuevas tecnologías.</p>",
-            "date": "2018-06-13 22:01:35",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/a%CC%81lvaro-royo-confesiones-programador-cabecera-copia-820x400.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/a%CC%81lvaro-royo-confesiones-programador-cabecera-copia-820x400.png",
-            "author": "Keep Coding Team",
-            "authorImage": "https://images.freeimages.com/images/large-previews/971/basic-shape-avatar-1632968.jpg"
-        },
-        {
-            "id": 8,
-            "title": "Cómo conseguir trabajo como desarrollador web frontend",
-            "intro": "Eduardo nació en Consuegra, un pueblo de la provincia de Toledo. En la universidad empezó los estudios de Ingeniería Informática de Sistemas en Ciudad Real pero nunca los llegó a terminar...",
-            "content": "<p>Eduardo nació en Consuegra, un pueblo de la provincia de Toledo. En la universidad empezó los estudios de Ingeniería Informática de Sistemas en Ciudad Real pero nunca los llegó a terminar, como le pasa a mucha gente “no era lo que esperaba”. Para amainar esa decepción empezó diferentes cursos como Técnico de Microsistemas, reparación de ordenadores… y al final se trasladó a Madrid donde comenzó a trabajar como Técnico de campo informático.</p><p>“La programación me interesó desde el principio, aunque inicialmente no lo hice a nivel profesional”. Pero cuando comenzó a trabajar con freelance prestando diferentes servicios profesionales relacionados con la informática, retomó la programación para desarrollo web.</p><p>Eduardo siguió formándose y estudió una especialización en Coursera de Desarrollador Full Stack. Pero no era suficiente.  Deseaba consolidar y ampliar sus conocimientos de Frontend y adquirir nuevos en Backend. “Estuve un tiempo valorando diferentes tipos de formación hasta que encontré el Bootcamp de KeepCoding y lo tuve claro desde el principio”.</p><p>Es posible que ya lo sepas, pero si no lo sabes, te diré que el Bootcamp Web de KeepCoding es a distancia. Algunas personas pueden desconfiar al principio de una formación como esta a distancia pero Eduardo dice: “estudiar a distancia así no tiene ninguna desventaja, de hecho para mí tiene ventajas. Las clases son en directo, con el profesor explicando, atendiendo dudas ayudando en las partes más complejas, como si estuviésemos todos en una misma clase, pero con la ventaja de que lo puedes hacer desde casa y que todas las clases se quedan grabadas para repasarlas o por si te perdiste alguna”.</p><p>La experiencia fue muy enriquecedora para este keepcoder: “era lo que buscaba, una formación completa, actualizada, impartida por profesionales del desarrollo, con suficiente teoría y mucha práctica”. Y es que de la práctica nuestros alumnos no se pueden quejar, pican código desde el primer día y todos y cada uno de los 10 meses que dura el Bootcamp. Aboy pone de relevancia la parte práctica, ya que después de cada módulo había (y hay) un ejercicio práctico que le servía para afianzar los conocimientos.</p>",
-            "date": "2018-06-13 22:01:35",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-caso-exito-eduardo-aboy-820x400.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-caso-exito-eduardo-aboy-820x400.png",
-            "author": "Keep Coding Team",
-            "authorImage": ""
-        },
-        {
-            "id": 9,
-            "title": "¿Por qué hay tanto paro juvenil en España?",
-            "intro": "Uno de los temas más preocupantes durante este 2018 es el elevado porcentaje de paro juvenil que tiene actualmente España. Según los datos oficiales del INE (Instituto Nacional de Estadística) este porcentaje durante el primer trimestre...",
-            "content": "<p>Uno de los temas más preocupantes durante este 2018 es el elevado porcentaje de paro juvenil que tiene actualmente España. Según los datos oficiales del INE (Instituto Nacional de Estadística) este porcentaje durante el primer trimestre del año fue del 36,34% para jóvenes de menos de 25 años. Este dato es ligeramente inferior al mismo periodo del año pasado. Sin embargo, sigue siendo más del doble que la media europea.</p><h3>Las cosas tienen que cambiar</h3><p>Esto es un punto de no retorno. Cuanto más tiempo gastemos en analizar los porqués de todo, menos tiempo invertimos en pasar a la acción. Esto no es un problema de ahora, sino que vine ya de largo. Tanto las autoridades educativas como los medios de prensa llevan años advirtiendo de esta brecha del mercado laboral entre oferta y demanda.</p><p>No hay que buscar soluciones. Las tenemos delante de la cara durante todos estos años. Los jóvenes necesitan analizar mejor la información que nos brinda el mercado laboral para así poder pivotar a tiempo, corregir el rumbo y seguir avanzando hacia un futuro laboral estable. Lamentablemente la realidad es que esta información no llega de una manera óptima, por lo que se sigue la inercia de las carreras más demandadas del pasado: Medicina, ADE y Psicología.</p><p>¿Cuáles son las consecuencias? Inflación de notas en estas carreras a pesar de tener una insersión laboral muy baja debido a la gran demanda de estudiantes. Esto se traduce lamentablemente en un paro estructural muy difícil de frenar si no se toman medidas urgentes y produce un cuello de botella en el mercado de trabajo.</p>",
-            "date": "2018-01-19 22:01:35",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/07/Find-job-820x400.jpg",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/07/Find-job-820x400.jpg",
-            "author": "Anónimo",
-            "authorImage": ""
-        },
-        {
-            "id": 10,
-            "title": "Connect 2018: El evento para desarrolladores más grande de España",
-            "intro": "El primer Connect tuvo lugar durante el verano del año 2016, donde recibimos a más de 200 desarrolladores que pudieron disfrutar de primera mano esta “fiesta friki del código”.",
-            "content": "<h3>¿Qué es Connect?</h3><p>Es la conferencia GRATUITA más grande para desarrolladores en España. Es un evento sobre tecnología y nuestro principal objetivo ayudar a los desarrolladores a cambiar sus vidas a través de la calidad de charlas de los ponentes, su visión tecnológica del mundo, su trayectoria profesional y, por supuesto, conectar a las personas.</p><h3>¡Esto no para de crecer!</h3><p>El primer Connect tuvo lugar durante el verano del año 2016, donde recibimos a más de 200 desarrolladores que pudieron disfrutar de primera mano esta “fiesta friki del código”.</p><p>En año más tarde, en el 2017, la cifra de desarrollares que acudieron al evento fue de más del doble, superándose los 500 desarrolladores que fliparon en colores con las sorpresas que hubo. Nos hemos propuesto romper todos los récords este año. Acudirán siete de los más relevantes ponentes de sector del mundo del desarrollo y la innovación a nivel mundial, unido a una expectativa de asistencia de más de 600 desarrolladores. ¿Te lo vas a perder? ¡Yo iré seguro! ( a ver… es mi trabajo).</p><h3>¿En qué consiste el evento?</h3><p>Aparte de disfrutar de las interesantes charlas de los ponentes que hablarán sobre temas tecnológicos de la actualidad, este evento está pensado para conectar talento con empresas. Por lo que si eres un desarrollador desempleado,  estás pensando cambiar de trabajo y buscas nuevos retos profesionales o simplemente quieres juntarte con gente del mundillo, ¡este es tu sitio!</p><p>Los participantes que asistan al evento podrán hacer match con los diferentes recruiters. De esta manera nos encargamos personalmente que todos los desarrolladores estéis conectados durante todo el evento con la persona indicada. Así podrán conocerse de la forma más natural y relajada posible. El momento perfecto para crear nuevas relaciones profesionales que luego nunca se sabe que beneficios puede traer en el futuro…</p>",
-            "date": "2018-01-19 22:01:35",
-            "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/06/connect_2018-1-820x400.png",
-            "video": "",
-            "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/06/connect_2018-1-820x400.png",
-            "author": "Nauel G",
-            "authorImage": ""
-        }
-    ],
-    "comments": [{
-            "articlesid": 1,
-            "author": "Nauel",
-            "content": "Primer comentario"
-        },
-        {
-            "articlesid": 1,
-            "author": "Otro usuario",
-            "content": "Ese post ha salido del blog de KeepCoding, no?"
-        },
-        {
-            "articlesid": 2,
-            "author": "Keep Coding",
-            "content": "Esto es un comentario de relleno."
-        },
-        {
-            "articlesid": 2,
-            "author": "Otro usuario",
-            "content": "Otro comentario más"
-        }
-    ]
+  "articles": [
+    {
+      "id": 1,
+      "title": "Tendencias desarrollo mobile 2019",
+      "intro": "¿Es necesario aprender a programar hoy en día? ¿Se ha convertido la programación en un complemento de cualquier otra disciplina académica?",
+      "content": "<p>El sector de las aplicaciones móviles es uno de los grandes mercados del mundo de la tecnología. Esto es algo que no se puede negar, ahí van unos datos para que entiendas un poco la magnitud del asunto (gracias a elboletin, ignaciosantiago.com y merca20):</p><ul><li>A finales de 2017 existían 5.000 millones de usuarios con un smartphone.</li><li>En el año 2017 se descargaron nada más y nada menos que 197 mil millones de aplicaciones.</li><li>En marzo de 2017 se reportaron 2.800 millones de aplicaciones en Google Play y 2.200 millones en App Store.</li><li>En España 22 millones de personas usamos cada día aplicaciones móviles y todos los días nos descargamos 4 millones de aplicaciones para móviles, tablets y televisores.</li><li>Se espera que para el 2020 el mercado de las apps genere alrededor de 189 mil millones de dólares en ingresos.</li></ul><p>Son números increíbles ¿verdad? El sector del desarrollo de aplicaciones es imparable, así que tanto si ya eres un desarrollador o si lo quieres ser… te dejamos con algunas tendencias del mundillo, para que estés al día, ya sabes que en el ámbito tecnológico siempre hay que estar atento, con el bláster preparado.</p>",
+      "date": "2018-08-03 22:01:35",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-1-820x400.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-1-820x400.png",
+      "author": "Keep Coding Team",
+      "authorImage": "https://images.freeimages.com/images/large-previews/7e8/man-avatar-1632965.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tendencias en desarrollo Big Data & Machine Learning",
+      "intro": "Big Data y Machine Learning dos conceptos que están en boca de todo el mundo hoy en día, pero no es para menos, el perfil de científico de datos se ha convertido en uno de los más demandados...",
+      "content": "<p>Big Data y Machine Learning dos conceptos que están en boca de todo el mundo hoy en día, pero no es para menos, el perfil de científico de datos se ha convertido en uno de los más demandados por las empresas en los últimos años. Según el informe “Profesional Big Data: análisis actual y perspectivas de futuro”, las ofertas de empleo han aumentado un 92% en dos años solamente en España. Las empresas se han dado cuenta de una realidad: los datos son su presente, pero también su futuro. La gestión de datos ha dejado de ser monopolio de grandes empresas para dejar la puerta abierta a que empresas más pequeñas decidan dar a los datos la importancia que se merecen.</p><p>Nosotros lo tenemos claro, como Pat Gelsinger: “Los datos son la nueva ciencia. El Big Data las respuestas“; por eso en este post queremos enseñaros los lenguajes y herramientas que seguirán de moda o que serán tendencia en el desarrollo Big Data y Machine Learning en el año 2019.</p><h3>Python</h3><p>Según la encuesta de desarrolladores que hace todos los años StackOverflow, Python es uno de los 10 lenguajes más utilizados en todo el mundo por los desarrolladores profesionales. Además ocupa el primer puesto como lenguaje más querido por los programadores. ¿Quién no quiere aprender Python? Es un lenguaje fácil de aprender, muy limpio y legible con el que se pueden crear programas para diferentes dispositivos y plataformas como programas de escritorio para Mac, Linux o Windows y aplicaciones para Android o páginas web. Empresas como Google, Amazon, Facebook, Instagram, Netflix o Reddit usan Python. ¿Tú aún no?</p>",
+      "date": "2018-09-23 11:03:00",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-820x400.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tedencias-desarrollo-big-data-2019-820x400.png",
+      "author": "NauelG",
+      "authorImage": ""
+    },
+    {
+      "id": 3,
+      "title": "Tendencias en desarrollo web 2019",
+      "intro": "Es bien sabido que hoy en día las empresas buscan, cada vez más, perfiles tecnológicos, y especialmente desarrolladores web. Y no sólo en España sino en todo el mundo. Según el más reciente informe...",
+      "content": "<p>Es bien sabido que hoy en día las empresas buscan, cada vez más, perfiles tecnológicos, y especialmente desarrolladores web. Y no sólo en España sino en todo el mundo. Según el más reciente informe de Tech Cities de Experis IT, el desarrollo web es una de las áreas con más futuro y proyección laboral. Debido al aumento del uso de Internet y las mejoras en las conexiones, la necesidad de desarrolladores en las empresas es realmente alta.</p><p>Es bien sabido que hoy en día las empresas buscan, cada vez más, perfiles tecnológicos, y especialmente desarrolladores web. Y no sólo en España sino en todo el mundo. Según el más reciente informe de Tech Cities de Experis IT, el desarrollo web es una de las áreas con más futuro y proyección laboral. Debido al aumento del uso de Internet y las mejoras en las conexiones, la necesidad de desarrolladores en las empresas es realmente alta.</p><h3>Tendencias en desarrollo web 2019</h3><p>En cuanto a los frameworks y librerías. Angular, React y Vue siguen pegando muy fuerte, especialmente Vue. Aunque por supuesto también hay hueco para Ionic.</p><h4>Angular</h4><p>Angular es un framework de desarrollo para JavaScript, gratuito y Open Source creado por Google. El objetivo de Angular es ayudarnos al desarrollo de aplicaciones web SPA (Single Page App) y también darnos herramientas para trabajar con los elementos de una web de manera mucho más sencilla. Este lenguaje está viviendo una etapa de estabilidad que hace que muchos desarrolladores senior la utilicen en su trabajo diario. El lenguaje principal de este framework es TypeScript y ¿quién está detrás de este lenguaje?: Microsoft, otro grande de la tecnología. Además Angular te da la opción de crear aplicaciones híbridas: tanto para iOS, Android, como para otras plataformas minoritarias.</p>",
+      "date": "2018-08-25 22:07:30",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tendencias-desarrollo-web-2019-820x400.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/tendencias-desarrollo-web-2019-820x400.png",
+      "author": "Keep Coding Team",
+      "authorImage": ""
+    },
+    {
+      "id": 4,
+      "title": "Cómo usar el Machine Learning para cambiar el mundo",
+      "intro": "El 29 y 30 de junio de 2018 la empresa Terminus7, dedicada al desarrollo de Inteligencia Artificial, celebró en Madrid el Hackathon AI for Good.",
+      "content": "<p>El 29 y 30 de junio de 2018 la empresa Terminus7, dedicada al desarrollo de Inteligencia Artificial, celebró en Madrid el Hackathon AI for Good.</p><p>Los retos que pusieron a los participantes tenían que ver con la resolución de problemáticas relacionadas con la salud: el cáncer de mama y la diabetes.</p><p>Aunque a veces hay muchos prejuicios contra el Machine Learning la verdad es que se pueden hacer importantes cosas para ayudar a la humanidad.</p><p>Pablo Langa, que ya apareció por el blog como caso de éxito del Bootcamp Big Data & Machine Learning fue uno de los participantes junto con Carolina Calvo y obtuvieron un merecido tercer puesto, ¡enhorabuena!</p>",
+      "date": "2018-09-03 10:01:35",
+      "picture": "",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/09/hackathon-ai-for-good-820x400.png",
+      "author": "Algunos alumnos del bootcamp",
+      "authorImage": ""
+    },
+    {
+      "id": 5,
+      "title": "¿Quieres contratar desarrolladores de calidad?",
+      "intro": "El próximo 28 de septiembre se celebra un nuevo Closing de los alumnos de la 5ª edición del Bootcamp Mobile y la 3ª del Bootcamp Web.",
+      "content": "<p>El próximo 28 de septiembre se celebra un nuevo Closing de los alumnos de la 5ª edición del Bootcamp Mobile y la 3ª del Bootcamp Web.</p><p>El Closing no sólo es un evento de nerdworking . Es mucho más que eso. Es un momento de respiro y de triunfo. Y es que nuestros keepcoders han estado trabajando muy duro para poder seguir al día la formación y terminar con éxito. Nunca nadie dijo que fuera fácil (de hecho se lo decimos, que ni de broma iba a ser sencillo) pero desde luego confiamos en que merece la pena.</p><p>Así pues durante el Closing los alumnos hacen una presentación de su trabajo final en grupo. En este trabajo presentan un proyecto totalmente terminado, una app (mobile o web) que han realizado desde cero, tanto el backend com como el frontend.</p><p>Un ejemplo del trabajo de nuestros keepcoders que se presentó durante el pasado Closing de febrero es la aplicación Sinergy, una app creada para hacer Team Building. Los keepcoders vuelcan en  sus proyectos  todo el conocimiento que han adquirido todos estos meses anteriores, es la prueba de fuego, la culminación del esfuerzo, el día en el que recibirán sus ansiadas camisetas negras. En KeepCoding entregamos diferentes camisetas a medida que el alumno va avanzando en su formación. Si quieres conocer los colores y sus significados puedes leer este post.</p><h3>Pero sí, también hay nerdworking</h3><p>Este evento también está diseñado para que los recruiters puedan encontrar el talento técnico que necesitan para sus empresas. Es perfecto para ellos porque podrán ver las presentaciones de los alumnos en directo y conocer de primera mano todo el conocimiento y las habilidades que han adquirido durante su formación en KeepCoding. Tras las exposiciones, todas las empresas podrán trata con todos los keepcoders que se adecúen a las ofertas de empleo presentadas por ellos.</p>",
+      "date": "2018-07-20 22:01:35",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/mobile-web-anuncio-code-one-alumnos-820x400.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/mobile-web-anuncio-code-one-alumnos-820x400.png",
+      "author": "NauelG",
+      "authorImage": ""
+    },
+    {
+      "id": 6,
+      "title": "Frontend versus Backend. eBook gratis.",
+      "intro": "Estamos seguros de que cada día ves numerosas páginas web y utilizas diversas aplicaciones. Imágenes a todo color, animaciones super chulas, vídeos en HD, noticias, popups…",
+      "content": "<p>Estamos seguros de que cada día ves numerosas páginas web y utilizas diversas aplicaciones. Imágenes a todo color, animaciones super chulas, vídeos en HD, noticias, popups… pero hay mucho más de lo que se puede apreciar a simple vista con ojos de muggle. Detrás de cada cosa que ves en una página web, en una aplicación, hay mucho trabajo, numerosas tecnologías que trabajan sin descanso para poder ofrecerte la mejor experiencia posible y poder responder lo más rápido posible a tus peticiones, como puede ser la descarga de archivos. Para que todo funcione es necesario el trabajo de dos perfiles de desarrolladores, el desarrollador frontend y el desarrollador backend. ¿Qué no tienes ni idea de qué significan estas palabrejas?</p><h3>Diferencia entre Frontend y Backend</h3><p>Una aplicación web (y luego veremos que esto mismo se aplica a cualquier tipo de software) es como una tienda: está hecha de varios componentes, cada uno con su misión. Pensemos en una tienda que todos conocemos, como Ikea o un McDonald.</p><ol><li>El escaparate y el interior de la tienda por el cual el cliente circula e interactúa con ella. Su objetivo es atraer al cliente y llevarle a comprar alguno de los productos, proporcionando una buena experiencia de usuario: encontrar los productos y poder comprarlos de forma rápida y cómoda. Esto es el frontend. En una web, sería la parte que tú ves en el browser, por ejemplo la web de Amazon, las listas de productos, las recomendaciones, el carrito de la compra, etc.</li><li>La trastienda, el almacén, los servicios de transporte y logística, sistema de pagos y contabilidad, etc. Son servicios esenciales, que aunque no los ves, cuando fallan toda la experiencia del cliente se va al garete. ¿De qué le serviría a Amazon tener un frontend muy bonito, si luego no es capaz de entregar los productos, o hacerte recomendaciones personalizadas? ¿De qué le vale a Netflix tener un frontend fantástico, si luego el sistema de streaming o de recomendaciones no funciona? Esto es el backend, y como ves, aunque invisible, es de vital importancia.</li></ol>",
+      "date": "2018-08-03 22:01:35",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-ebook-web-frontend-backend-1-1024x501.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-ebook-web-frontend-backend-1-1024x501.png",
+      "author": "Keep Coding Team",
+      "authorImage": "https://images.freeimages.com/images/large-previews/7e8/man-avatar-1632965.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cómo llegar a ser desarrollador iOS freelance",
+      "intro": "'Me dedicaba a ver videos en Youtube. Era mal estudiante y aunque me encantan las matemáticas era demasiado vago para memorizar los conceptos.'",
+      "content": "<strong>¿Por qué decidiste estudiar programación?</strong><p>Realmente no decidí estudiar programación. Empecé a programar con 14 años, siendo este mi hobby. Un día, sin casi darme cuenta, me estaban pagando por hacer lo que más me gusta. Y es cierto que a veces en España hace falta un título para ciertas empresas. Por eso me saqué el Grado Superior de Desarrollo del que aprendí muchísimo gracias a mis profesores del Instituto Nervión de Sevilla, que enseñan programación con pasión por lo que hacen, y también gracias a mis compañeros, ya que era la primera vez que me juntaba con un grupo tan friki de la programación y con tantas ganas de aprender como yo.</p><strong>¿Cuáles fueron los primeros pasos que diste para formarte en este sector?</strong><p>Me dedicaba a ver videos en Youtube. Era mal estudiante y aunque me encantan las matemáticas era demasiado vago para memorizar los conceptos. Por eso hacía aplicaciones que resolvieran cualquier tipo de problema. Ecuaciones, trigonometría, química… Y así fueron mis primeros pasos en el desarrollo de aplicaciones para apps. Más tarde, trabajando de chico multitarea, sobre todo en Node.JS, la empresa decidió que podía echar una mano en iOS y me ofrecieron un curso de formación de KeepCoding que impartía Fernando Rodríguez. Terminé todos los cursos en una semana y media y pude ir echando una mano a mi compañero en iOS.</p><strong>¿Sigues formándote? ¿Qué estudias?</strong><p>Claro que si. En cualquier ocupación del sector tecnológico es necesaria la formación continua. En caso contrario estaría acabado. Actualmente estoy muy interesado en el Machine Learning ya que creo que va a ser clave para las grandes apps del futuro. Normalmente lo que suelo hacer en mi caso de iOS es ver la conferencia de desarrolladores y mirar los nuevos cambios para estar siempre al día de todo. También me ayudo con algunos blogs de Medium y siguiendo a muchos desarrolladores en LinkedIn que escriben artículos interesantes sobre nuevas tecnologías.</p>",
+      "date": "2018-06-13 22:01:35",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/a%CC%81lvaro-royo-confesiones-programador-cabecera-copia-820x400.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/a%CC%81lvaro-royo-confesiones-programador-cabecera-copia-820x400.png",
+      "author": "Keep Coding Team",
+      "authorImage": "https://images.freeimages.com/images/large-previews/971/basic-shape-avatar-1632968.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cómo conseguir trabajo como desarrollador web frontend",
+      "intro": "Eduardo nació en Consuegra, un pueblo de la provincia de Toledo. En la universidad empezó los estudios de Ingeniería Informática de Sistemas en Ciudad Real pero nunca los llegó a terminar...",
+      "content": "<p>Eduardo nació en Consuegra, un pueblo de la provincia de Toledo. En la universidad empezó los estudios de Ingeniería Informática de Sistemas en Ciudad Real pero nunca los llegó a terminar, como le pasa a mucha gente “no era lo que esperaba”. Para amainar esa decepción empezó diferentes cursos como Técnico de Microsistemas, reparación de ordenadores… y al final se trasladó a Madrid donde comenzó a trabajar como Técnico de campo informático.</p><p>“La programación me interesó desde el principio, aunque inicialmente no lo hice a nivel profesional”. Pero cuando comenzó a trabajar con freelance prestando diferentes servicios profesionales relacionados con la informática, retomó la programación para desarrollo web.</p><p>Eduardo siguió formándose y estudió una especialización en Coursera de Desarrollador Full Stack. Pero no era suficiente.  Deseaba consolidar y ampliar sus conocimientos de Frontend y adquirir nuevos en Backend. “Estuve un tiempo valorando diferentes tipos de formación hasta que encontré el Bootcamp de KeepCoding y lo tuve claro desde el principio”.</p><p>Es posible que ya lo sepas, pero si no lo sabes, te diré que el Bootcamp Web de KeepCoding es a distancia. Algunas personas pueden desconfiar al principio de una formación como esta a distancia pero Eduardo dice: “estudiar a distancia así no tiene ninguna desventaja, de hecho para mí tiene ventajas. Las clases son en directo, con el profesor explicando, atendiendo dudas ayudando en las partes más complejas, como si estuviésemos todos en una misma clase, pero con la ventaja de que lo puedes hacer desde casa y que todas las clases se quedan grabadas para repasarlas o por si te perdiste alguna”.</p><p>La experiencia fue muy enriquecedora para este keepcoder: “era lo que buscaba, una formación completa, actualizada, impartida por profesionales del desarrollo, con suficiente teoría y mucha práctica”. Y es que de la práctica nuestros alumnos no se pueden quejar, pican código desde el primer día y todos y cada uno de los 10 meses que dura el Bootcamp. Aboy pone de relevancia la parte práctica, ya que después de cada módulo había (y hay) un ejercicio práctico que le servía para afianzar los conocimientos.</p>",
+      "date": "2018-06-13 22:01:35",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-caso-exito-eduardo-aboy-820x400.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/08/cabecera-caso-exito-eduardo-aboy-820x400.png",
+      "author": "Keep Coding Team",
+      "authorImage": ""
+    },
+    {
+      "id": 9,
+      "title": "¿Por qué hay tanto paro juvenil en España?",
+      "intro": "Uno de los temas más preocupantes durante este 2018 es el elevado porcentaje de paro juvenil que tiene actualmente España. Según los datos oficiales del INE (Instituto Nacional de Estadística) este porcentaje durante el primer trimestre...",
+      "content": "<p>Uno de los temas más preocupantes durante este 2018 es el elevado porcentaje de paro juvenil que tiene actualmente España. Según los datos oficiales del INE (Instituto Nacional de Estadística) este porcentaje durante el primer trimestre del año fue del 36,34% para jóvenes de menos de 25 años. Este dato es ligeramente inferior al mismo periodo del año pasado. Sin embargo, sigue siendo más del doble que la media europea.</p><h3>Las cosas tienen que cambiar</h3><p>Esto es un punto de no retorno. Cuanto más tiempo gastemos en analizar los porqués de todo, menos tiempo invertimos en pasar a la acción. Esto no es un problema de ahora, sino que vine ya de largo. Tanto las autoridades educativas como los medios de prensa llevan años advirtiendo de esta brecha del mercado laboral entre oferta y demanda.</p><p>No hay que buscar soluciones. Las tenemos delante de la cara durante todos estos años. Los jóvenes necesitan analizar mejor la información que nos brinda el mercado laboral para así poder pivotar a tiempo, corregir el rumbo y seguir avanzando hacia un futuro laboral estable. Lamentablemente la realidad es que esta información no llega de una manera óptima, por lo que se sigue la inercia de las carreras más demandadas del pasado: Medicina, ADE y Psicología.</p><p>¿Cuáles son las consecuencias? Inflación de notas en estas carreras a pesar de tener una insersión laboral muy baja debido a la gran demanda de estudiantes. Esto se traduce lamentablemente en un paro estructural muy difícil de frenar si no se toman medidas urgentes y produce un cuello de botella en el mercado de trabajo.</p>",
+      "date": "2018-01-19 22:01:35",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/07/Find-job-820x400.jpg",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/07/Find-job-820x400.jpg",
+      "author": "Anónimo",
+      "authorImage": ""
+    },
+    {
+      "id": 10,
+      "title": "Connect 2018: El evento para desarrolladores más grande de España",
+      "intro": "El primer Connect tuvo lugar durante el verano del año 2016, donde recibimos a más de 200 desarrolladores que pudieron disfrutar de primera mano esta “fiesta friki del código”.",
+      "content": "<h3>¿Qué es Connect?</h3><p>Es la conferencia GRATUITA más grande para desarrolladores en España. Es un evento sobre tecnología y nuestro principal objetivo ayudar a los desarrolladores a cambiar sus vidas a través de la calidad de charlas de los ponentes, su visión tecnológica del mundo, su trayectoria profesional y, por supuesto, conectar a las personas.</p><h3>¡Esto no para de crecer!</h3><p>El primer Connect tuvo lugar durante el verano del año 2016, donde recibimos a más de 200 desarrolladores que pudieron disfrutar de primera mano esta “fiesta friki del código”.</p><p>En año más tarde, en el 2017, la cifra de desarrollares que acudieron al evento fue de más del doble, superándose los 500 desarrolladores que fliparon en colores con las sorpresas que hubo. Nos hemos propuesto romper todos los récords este año. Acudirán siete de los más relevantes ponentes de sector del mundo del desarrollo y la innovación a nivel mundial, unido a una expectativa de asistencia de más de 600 desarrolladores. ¿Te lo vas a perder? ¡Yo iré seguro! ( a ver… es mi trabajo).</p><h3>¿En qué consiste el evento?</h3><p>Aparte de disfrutar de las interesantes charlas de los ponentes que hablarán sobre temas tecnológicos de la actualidad, este evento está pensado para conectar talento con empresas. Por lo que si eres un desarrollador desempleado,  estás pensando cambiar de trabajo y buscas nuevos retos profesionales o simplemente quieres juntarte con gente del mundillo, ¡este es tu sitio!</p><p>Los participantes que asistan al evento podrán hacer match con los diferentes recruiters. De esta manera nos encargamos personalmente que todos los desarrolladores estéis conectados durante todo el evento con la persona indicada. Así podrán conocerse de la forma más natural y relajada posible. El momento perfecto para crear nuevas relaciones profesionales que luego nunca se sabe que beneficios puede traer en el futuro…</p>",
+      "date": "2018-01-19 22:01:35",
+      "picture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/06/connect_2018-1-820x400.png",
+      "video": "",
+      "mainPicture": "https://keepcoding.io/es/wp-content/uploads/sites/4/2018/06/connect_2018-1-820x400.png",
+      "author": "Nauel G",
+      "authorImage": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "articlesid": 1,
+      "author": "Nauel",
+      "content": "Primer comentario"
+    },
+    {
+      "id": 2,
+      "articlesid": 1,
+      "author": "Otro usuario",
+      "content": "Ese post ha salido del blog de KeepCoding, no?"
+    },
+    {
+      "id": 3,
+      "articlesid": 2,
+      "author": "Keep Coding",
+      "content": "Esto es un comentario de relleno."
+    },
+    {
+      "id": 4,
+      "articlesid": 2,
+      "author": "Otro usuario",
+      "content": "Otro comentario más"
+    },
+    {
+      "articlesid": "2",
+      "author": "Nauel",
+      "content": "Comentario enviado desde el form",
+      "id": 5
+    }
+  ]
 }
