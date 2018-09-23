@@ -3,5 +3,6 @@ import { Article } from 'components/article/article-component';
 
 new Page({
     selector: 'app-article',
-    component: Article
+    component: Article,
+    title: 'ThinkGeek - Los mejores artículos de tecnología.'
 });

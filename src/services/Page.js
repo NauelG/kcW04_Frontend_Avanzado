@@ -5,11 +5,18 @@ export class Page {
 
     constructor({
         component: component,
-        selector: selector
+        selector: selector,
+        title: title
     }) {
         this.component = component;
         this.selector = selector;
+        this.title = title;
         this.renderSelector();
+        this.changeTitle();
+    }
+
+    changeTitle() {
+        document.title = this.title;
     }
 
     renderSelector() {
