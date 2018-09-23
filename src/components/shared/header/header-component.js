@@ -5,7 +5,7 @@ export const Header = new Component('app-header');
 
 Header.template = `
     <header class="header">
-        <h1 class="logo">Think<span>G</span>eek</h1>
+        <a href="./index.html"><h1 class="logo">Think<span>G</span>eek</h1></a>
         <nav class="menu">
                 <a id="toggle-login" class="toggle toggle-login" href="#">
                 <i class="far fa-user"></i> 
