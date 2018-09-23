@@ -14,6 +14,14 @@ export class ArticleService extends DbService {
     async getArticle(id) {
         return this.get(`${this.model}/${id}`);
     }
+
+    async getComments(id) {
+        return this.get(`${this.model}/${id}/comments`)
+    }
+
+    async postComment(body) {
+        return this.post(body, `comments`)
+    }
 }
 
 export default ArticleService;
