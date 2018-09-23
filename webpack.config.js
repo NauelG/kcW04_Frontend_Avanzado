@@ -6,7 +6,8 @@ var merge = require('webpack-merge'),
     uglyfysPlugin = require('uglifyjs-webpack-plugin'),
     miniCssExtractPlugin = require('mini-css-extract-plugin'),
     cleanWebpackPlugin = require('clean-webpack-plugin'),
-    criticalPlugin = require('webpack-plugin-critical').CriticalPlugin;
+    criticalPlugin = require('webpack-plugin-critical').CriticalPlugin,
+    FaviconsWebpackPlugin = require('favicons-webpack-plugin');
 
 var newPage = function({ title, template, chunks, filename }) {
     return new htmlWebpackPlugin({
@@ -30,6 +31,7 @@ var commonConfig = {
         path: path.resolve(__dirname, 'dist')
     },
     plugins: [
+        new FaviconsWebpackPlugin('assets/favicon-256.png'),
         new Dotenv(),
         newPage({
             title: 'Home',
