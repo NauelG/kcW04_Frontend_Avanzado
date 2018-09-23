@@ -8,7 +8,14 @@ const _articlesSrv = new ArticleService();
 
 _articlesSrv.getArticles().then(
     response => {
-        createTemplate(response)
+        if (response.err) {
+            Home.createError(response.err);
+        }
+        if (response.length < 1) {
+            Home.createError('No se han encontrado artículos');
+        } else {
+            createTemplate(response);
+        }
     }
 );
 
