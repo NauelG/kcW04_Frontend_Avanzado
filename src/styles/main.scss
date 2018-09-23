@@ -2,7 +2,7 @@
 @import './settings.scss';
 @import './layout.scss';
 html {
-    box-sizing: border-box;
+    box-sizing: border-box !important;
     font-family: $default-font;
 }
 
@@ -15,10 +15,17 @@ html {
     }
 }
 
+#app {
+    margin-top: 4rem;
+    @include for-tablet-portrait {
+        margin-top: 6rem;
+    }
+}
+
 .container-message {
+    padding: 4rem 1rem;
     width: 100%;
     text-align: center;
-    margin-top: 8rem;
     i {
         display: block;
         font-size: 4rem;
