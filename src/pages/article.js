@@ -1,9 +1,7 @@
-import { Header } from 'components/shared/header/header-component';
-import { Footer } from 'components/shared/footer/footer-component';
+import { Page } from 'services/Page';
 import { Article } from 'components/article/article-component';
 
-document.querySelector('#app').innerHTML = `
-    <app-article></app-article>
-`;
-
-Article.render();
+new Page({
+    selector: 'app-article',
+    component: Article
+});

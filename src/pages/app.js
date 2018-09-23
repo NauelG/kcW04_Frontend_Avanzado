@@ -1,9 +1,7 @@
-import { Header } from 'components/shared/header/header-component';
-import { Footer } from 'components/shared/footer/footer-component';
+import { Page } from 'services/Page';
 import { Home } from 'components/home/home-component';
 
-document.querySelector('#app').innerHTML = `
-    <app-home></app-home>
-`;
-
-Home.render();
+new Page({
+    selector: 'app-home',
+    component: Home
+});
