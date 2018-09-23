@@ -1,7 +1,7 @@
 @import 'styles/settings.scss';
 @import 'styles/layout.scss';
 @import 'styles/main.scss';
-section.songs {
+section.articles {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -10,7 +10,7 @@ section.songs {
         flex-direction: column;
         justify-content: space-between;
         width: 100%;
-        border-radius: 10px;
+        border-radius: 0.8rem;
         margin: 1rem 0;
         border: 1px solid $c-background;
         background-color: $c-background2;
@@ -65,16 +65,6 @@ section.songs {
             color: inherit;
             border-radius: 0.5rem;
             background-color: $c-secondary;
-            span {
-                background-color: $c-enphasi;
-                color: $c-background;
-                font-family: $alt-font;
-                width: 1rem;
-                height: 1rem;
-                display: inline-block;
-                border-radius: 50%;
-                margin-left: 1.5rem;
-            }
         }
         @include for-tablet-portrait {
             width: 42%;

@@ -21,7 +21,7 @@ _articlesSrv.getArticles().then(
 
 const createTemplate = (items) => {
         Home.template = `
-        <section class="container songs">
+        <section class="container articles">
         ${items.map(item => `
 
             <div class="card">
@@ -34,7 +34,7 @@ const createTemplate = (items) => {
                     <img class="card-profile-image" src="${validateImage(item.authorImage, true)}" alt="${item.author}">
                     <span class="card-author"> ${item.author}</span>
                     <span class ="card-date">Publicado ${resolveDate(item.date)}</span>
-                    <a href ="./article.html?id=${item.id}" class="btn card-btn">Ver comentarios<span class="card-count">${item.comments.length}</span></a>
+                    <a href ="./article.html?id=${item.id}#comments" class="btn card-btn">Ver comentarios</a>
                 </div>
             </div>
     `).join('')}
@@ -51,7 +51,7 @@ const resolveDate = (dateString) => {
     let minutes = parseInt((timePass/(1000*60))%60);
 
     if ( hours > 24 ) {
-        return `el ${datePublish.getDay()}/${datePublish.getMonth()}/${datePublish.getFullYear()}`;
+        return `el ${datePublish.getDay()}/${datePublish.getUTCMonth()+1}/${datePublish.getFullYear()}`;
     } else if ( hours > 0 ) {
         return `hace ${hours} h.`;
     } else {
