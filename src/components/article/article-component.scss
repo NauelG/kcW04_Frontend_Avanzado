@@ -1,3 +1,74 @@
 @import 'styles/settings.scss';
 @import 'styles/layout.scss';
 @import 'styles/main.scss';
+section.article {
+    max-width: 900px;
+    position: relative;
+    padding-top: 1rem;
+    h2.article-title {
+        display: block;
+        text-align: center;
+        font-family: $alt-font;
+        padding: 0 3.5rem;
+    }
+    #like {
+        color: $c-secondary;
+        font-size: 2.5rem;
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+        width: 95%;
+        height: 300px;
+        object-fit: cover;
+    }
+    .article-text {
+        width: 95%;
+        margin: 1rem auto;
+    }
+    .comments {
+        box-sizing: border-box;
+        margin: 1rem auto;
+        width: 95%;
+        background-color: $c-background2;
+        border: 1px solid $c-background;
+        padding: 1rem;
+        border-radius: 0.8rem;
+        .comment-title {
+            font-family: $alt-font;
+            display: block;
+            text-transform: uppercase;
+            text-align: center;
+        }
+        .comment {
+            span {
+                display: block;
+                margin: 0.5rem;
+                &.comment-author {
+                    font-size: 0.8rem;
+                }
+                &.comment-content {
+                    padding: 0 1rem;
+                }
+            }
+        }
+        .new-comment {
+            margin-top: 2rem;
+            .btn-comment {
+                margin: 0.5rem auto;
+                text-align: center;
+                text-transform: uppercase;
+                padding: 0.5rem;
+                display: block;
+                text-decoration: none;
+                color: inherit;
+                border-radius: 0.5rem;
+                background-color: $c-secondary;
+                width: 90%;
+            }
+        }
+    }
+}
