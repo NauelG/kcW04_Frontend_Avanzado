@@ -6,12 +6,14 @@ section.songs {
     flex-wrap: wrap;
     justify-content: center;
     .card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
         width: 100%;
         border-radius: 10px;
         margin: 1rem 0;
         border: 1px solid $c-background;
         background-color: $c-background2;
-        position: relative;
         .card-title {
             text-align: center;
             font-family: $alt-font;
@@ -23,24 +25,38 @@ section.songs {
         }
         .card-content {
             padding: 0 1rem;
-            margin-bottom: 7rem;
         }
         .card-footer {
             border-top: 1px solid $c-background;
-            position: absolute;
-            width: 100%;
-            bottom: 0;
+            align-self: flex-end;
+            display: grid;
+            grid-template-columns: 1fr 4fr;
+            grid-template-rows: 25% 25% 50%;
             height: 6rem;
+            width: 100%;
         }
         .card-profile-image {
+            grid-column: 1 / 2;
+            grid-row: 1 / 3;
             border-radius: 50%;
+            margin: 0 auto;
+            margin-top: 50%;
+            transform: translateY(-50%);
             height: 2.5rem;
             width: 2.5rem;
         }
         .card-author {
-            height: 3rem;
+            margin-top: 0.5rem;
+            grid-column: 2 / 3;
+            grid-row: 1 / 2;
+        }
+        .card-date {
+            grid-column: 2 / 3;
+            grid-row: 2 / 3;
         }
         .card-btn {
+            grid-row: 3 / 4;
+            grid-column: 1 / 3;
             margin: 0.5rem 1rem;
             text-align: center;
             text-transform: uppercase;
@@ -50,6 +66,16 @@ section.songs {
             color: inherit;
             border-radius: 0.5rem;
             background-color: $c-secondary;
+            span {
+                background-color: $c-enphasi;
+                color: $c-background;
+                font-family: $alt-font;
+                width: 1rem;
+                height: 1rem;
+                display: inline-block;
+                border-radius: 50%;
+                margin-left: 1.5rem;
+            }
         }
         @include for-tablet-portrait {
             width: 42%;
